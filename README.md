@@ -70,7 +70,6 @@ To load seed data, run:
 ```sh
 prisma db seed
 ```
-
 ## Video course
 
 For more info, here's the full video:
